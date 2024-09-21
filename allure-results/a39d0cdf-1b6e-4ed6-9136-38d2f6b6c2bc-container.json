@@ -1,0 +1,1 @@
+{"uuid":"a39d0cdf-1b6e-4ed6-9136-38d2f6b6c2bc","name":"com.giva.testcases.Tests.setup","children":["723d0de0-973b-4d11-b247-c128d91e2fc7"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726730538988,"stop":1726730558222}],"afters":[],"start":1726730538986,"stop":1726730558224}

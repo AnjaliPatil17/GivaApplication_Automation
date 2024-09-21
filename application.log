@@ -1,0 +1,374 @@
+2024-09-18 12:32:16 INFO  BasePage:44 - Browser Name: chrome
+2024-09-18 12:32:21 INFO  BasePage:48 - Application URL : https://www.giva.co/
+2024-09-18 12:32:21 WARN  BasePage:49 - This Log4j not support fatal,error methods.
+2024-09-18 12:32:31 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 14:28:41 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 14:29:25 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 14:29:25 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 14:29:40 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:34:30 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:34:35 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:34:35 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:34:47 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:34:55 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:34:57 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:34:57 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:35:01 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:35:09 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:35:11 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:35:11 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:35:18 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:35:24 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:35:26 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:35:26 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:37:26 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:37:29 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:37:29 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:37:37 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:40:54 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:40:58 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:40:58 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:41:04 INFO  BasePage:21 - LoginTest Method Running....
+2024-09-18 16:44:23 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:44:26 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:44:26 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:44:34 INFO  BasePage:14 - AddToCartTest Method Running....
+2024-09-18 16:44:49 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:44:49 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:44:49 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:44:53 INFO  BasePage:22 - CheckoutTest Method Running....
+2024-09-18 16:45:51 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:45:54 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:45:54 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 16:46:08 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 16:46:08 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 16:46:08 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:05:32 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:05:33 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:05:33 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:05:38 INFO  BasePage:28 - Giva Shopping Method Running....
+2024-09-18 17:09:26 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:09:28 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:09:28 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:09:36 INFO  BasePage:28 - Giva Shopping Method Running....
+2024-09-18 17:22:51 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:22:52 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:22:52 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:24:08 INFO  BasePage:23 - SearchTest Method Running....
+2024-09-18 17:27:02 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:27:04 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:27:04 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:27:46 INFO  BasePage:23 - SearchTest Method Running....
+2024-09-18 17:29:59 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:30:00 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:30:00 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:33:42 INFO  BasePage:48 - Browser Name: chrome
+2024-09-18 17:33:43 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-18 17:33:43 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-18 17:34:21 INFO  BasePage:28 - Giva Shopping Method Running....
+2024-09-18 20:43:31 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 20:43:37 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 20:43:37 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 20:43:44 INFO  BasePage:24 - CheckoutTest Method Running....
+2024-09-18 20:47:54 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 20:47:57 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 20:47:57 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 20:48:05 INFO  BasePage:24 - CheckoutTest Method Running....
+2024-09-18 20:50:27 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 20:50:30 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 20:50:30 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 20:50:40 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 20:51:41 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 20:51:44 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 20:51:44 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 20:51:50 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 20:56:37 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 20:56:40 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 20:56:40 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 20:56:47 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 21:01:38 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 21:01:41 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 21:01:41 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 21:01:48 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 21:58:02 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 21:58:06 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 21:58:06 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 21:58:12 INFO  BasePage:23 - SearchTest Method Running....
+2024-09-18 22:11:05 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 22:11:08 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 22:11:08 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 22:11:15 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 22:12:15 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 22:12:17 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 22:12:17 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 22:12:23 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 22:51:49 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 22:51:51 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 22:51:51 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 22:52:05 INFO  BasePage:27 - CheckoutTest Method Running....
+2024-09-18 22:59:12 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 22:59:15 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 22:59:15 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 22:59:25 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:05:58 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:06:01 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:06:01 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:06:07 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:08:21 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:08:23 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:08:23 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:08:28 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:08:38 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:08:40 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:08:40 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:08:45 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:10:30 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:10:32 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:10:32 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:10:38 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:10:47 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:10:48 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:10:49 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:10:54 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:11:02 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:11:04 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:11:04 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:11:11 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:11:49 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:11:51 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:11:51 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:11:58 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:15:30 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:15:32 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:15:32 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:15:37 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:17:34 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:17:36 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:17:36 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:17:43 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-18 23:20:02 INFO  BasePage:46 - Browser Name: chrome
+2024-09-18 23:20:04 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-18 23:20:04 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-18 23:20:12 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:23:28 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:23:34 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:23:34 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:23:42 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:23:54 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:23:56 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:23:56 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:24:02 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:24:11 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:24:13 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:24:13 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:24:20 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:24:29 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:24:31 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:24:31 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:24:39 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:24:47 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:24:49 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:24:49 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:24:57 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 10:25:05 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 10:25:07 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 10:25:07 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 10:25:17 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 11:52:14 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 11:52:25 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 11:52:25 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 11:52:52 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 11:56:19 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 11:56:22 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 11:56:22 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 11:56:44 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 11:58:29 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 11:58:34 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 11:58:34 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 11:58:51 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 12:00:09 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:00:13 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:00:13 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:00:38 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 12:01:46 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:01:49 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:01:49 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:02:04 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 12:48:12 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:48:15 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:48:15 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:48:21 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 12:49:20 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:49:23 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:49:23 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:49:36 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 12:52:18 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:52:22 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:52:22 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:52:38 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 12:54:24 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:55:21 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:55:21 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 12:55:32 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 12:59:57 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 12:59:58 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 12:59:58 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 13:00:03 INFO  BasePage:22 - LoginTest Method Running....
+2024-09-19 13:00:03 INFO  BasePage:81 - Login the application
+2024-09-19 13:28:16 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 13:28:17 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 13:28:17 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 13:28:40 INFO  BasePage:81 - User Login the application
+2024-09-19 13:29:20 INFO  BasePage:44 - Add the product to cart
+2024-09-19 13:29:40 INFO  BasePage:128 - Guest checkout securely
+2024-09-19 13:29:47 INFO  BasePage:135 - Payment Done
+2024-09-19 13:37:02 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 13:37:06 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 13:37:06 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 13:37:28 INFO  BasePage:81 - User Login the application
+2024-09-19 13:37:43 INFO  BasePage:81 - User searching the product in application
+2024-09-19 14:31:54 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 14:31:57 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 14:31:57 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 14:32:03 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 14:32:03 INFO  BasePage:81 - User Login the application
+2024-09-19 14:32:09 INFO  BasePage:60 - select the Store using city
+2024-09-19 14:32:14 INFO  BasePage:81 - User searching the product in application
+2024-09-19 14:32:27 INFO  BasePage:44 - Add the product to cart
+2024-09-19 14:32:39 INFO  BasePage:128 - User checkout securely
+2024-09-19 14:32:46 INFO  BasePage:135 - Payment Done
+2024-09-19 14:33:06 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 14:33:07 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 14:33:07 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 14:33:40 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 14:33:40 INFO  BasePage:70 - Guest searching the product in application
+2024-09-19 14:33:56 INFO  BasePage:76 - Guest buy the product
+2024-09-19 14:33:56 INFO  BasePage:109 - Guest checkout securely
+2024-09-19 14:34:11 INFO  BasePage:120 - Payment Done
+2024-09-19 15:30:14 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:30:15 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:30:15 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:30:24 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:30:24 INFO  BasePage:70 - Guest searching the product in application
+2024-09-19 15:30:35 INFO  BasePage:76 - Guest buy the product
+2024-09-19 15:30:35 INFO  BasePage:109 - Guest checkout securely
+2024-09-19 15:30:48 INFO  BasePage:120 - Payment Done
+2024-09-19 15:30:50 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:30:51 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:30:51 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:31:02 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:31:02 INFO  BasePage:81 - User Login the application
+2024-09-19 15:31:10 INFO  BasePage:81 - User searching the product in application
+2024-09-19 15:31:23 INFO  BasePage:44 - Add the product to cart
+2024-09-19 15:31:36 INFO  BasePage:128 - User checkout securely
+2024-09-19 15:31:43 INFO  BasePage:135 - Payment Done
+2024-09-19 15:31:44 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:31:45 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:31:45 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:32:01 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:32:01 INFO  BasePage:60 - select the Store using city
+2024-09-19 15:34:42 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:34:47 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:34:47 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:34:52 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:34:52 INFO  BasePage:60 - select the Store using city
+2024-09-19 15:47:24 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:47:26 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:47:26 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:47:49 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:47:50 INFO  BasePage:70 - Guest searching the product in application
+2024-09-19 15:48:13 INFO  BasePage:76 - Guest buy the product
+2024-09-19 15:48:13 INFO  BasePage:109 - Guest checkout securely
+2024-09-19 15:48:36 INFO  BasePage:120 - Payment Done
+2024-09-19 15:48:37 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:48:39 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:48:39 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:48:59 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:48:59 INFO  BasePage:81 - User Login the application
+2024-09-19 15:49:09 INFO  BasePage:81 - User searching the product in application
+2024-09-19 15:49:26 INFO  BasePage:44 - Add the product to cart
+2024-09-19 15:49:34 INFO  BasePage:128 - User checkout securely
+2024-09-19 15:49:41 INFO  BasePage:135 - Payment Done
+2024-09-19 15:49:42 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:49:43 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:49:43 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:49:55 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:49:55 INFO  BasePage:60 - select the Store using city
+2024-09-19 15:50:02 INFO  BasePage:70 - Guest searching the product in application
+2024-09-19 15:50:14 INFO  BasePage:76 - Guest buy the product
+2024-09-19 15:50:14 INFO  BasePage:109 - Guest checkout securely
+2024-09-19 15:50:34 INFO  BasePage:120 - Payment Done
+2024-09-19 15:50:35 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 15:50:37 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 15:50:37 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 15:51:23 INFO  BasePage:29 - Giva Shopping Method Running....
+2024-09-19 15:51:23 INFO  BasePage:81 - User Login the application
+2024-09-19 15:51:33 INFO  BasePage:60 - select the Store using city
+2024-09-19 15:51:43 INFO  BasePage:81 - User searching the product in application
+2024-09-19 15:52:17 INFO  BasePage:44 - Add the product to cart
+2024-09-19 15:52:31 INFO  BasePage:128 - User checkout securely
+2024-09-19 15:52:38 INFO  BasePage:135 - Payment Done
+2024-09-19 16:23:13 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 16:23:16 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 16:23:16 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 16:23:29 INFO  BasePage:81 - User searching the product in application
+2024-09-19 16:24:05 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 16:24:08 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 16:24:08 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 16:24:23 INFO  BasePage:81 - User Login the application
+2024-09-19 16:24:36 INFO  BasePage:81 - User searching the product in application
+2024-09-19 16:24:51 INFO  BasePage:44 - Add the product to cart
+2024-09-19 16:25:04 INFO  BasePage:128 - User checkout securely
+2024-09-19 16:25:12 INFO  BasePage:135 - Payment Done
+2024-09-19 17:09:43 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 17:09:51 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 17:09:51 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 17:10:08 INFO  BasePage:81 - User Login the application
+2024-09-19 17:14:10 INFO  BasePage:46 - Browser Name: chrome
+2024-09-19 17:14:11 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-19 17:14:11 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-19 17:14:38 INFO  BasePage:81 - User Login the application
+2024-09-19 17:14:46 INFO  BasePage:81 - User searching the product in application
+2024-09-19 17:16:02 INFO  BasePage:44 - Add the product item to cart
+2024-09-20 14:35:17 INFO  BasePage:46 - Browser Name: chrome
+2024-09-20 14:35:25 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-20 14:35:25 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-20 14:35:28 INFO  BasePage:60 - select the Store using city
+2024-09-20 14:37:06 INFO  BasePage:46 - Browser Name: chrome
+2024-09-20 14:37:07 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-20 14:37:07 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-20 14:37:12 INFO  BasePage:44 - Add the product item to cart
+2024-09-20 14:46:01 INFO  BasePage:46 - Browser Name: chrome
+2024-09-20 14:46:03 INFO  BasePage:50 - Application URL : https://www.giva.co/
+2024-09-20 14:46:03 WARN  BasePage:51 - This Log4j not support fatal,error methods.
+2024-09-20 14:46:21 INFO  BasePage:81 - User Login the application
+2024-09-20 14:46:33 INFO  BasePage:81 - User searching the product in application
+2024-09-20 14:47:31 INFO  BasePage:52 - Open the cart
+2024-09-20 15:42:45 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 15:42:50 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 15:42:50 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 15:42:58 INFO  BasePage:81 - User Login the application
+2024-09-20 15:46:10 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 15:46:13 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 15:46:13 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 15:46:16 INFO  BasePage:79 - select the Store using city
+2024-09-20 15:57:23 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 15:57:25 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 15:57:25 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 15:58:11 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 15:58:13 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 15:58:13 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 15:58:20 INFO  BasePage:67 - Open the cart
+2024-09-20 15:58:22 INFO  BasePage:69 - Open the Offer page
+2024-09-20 16:13:46 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 16:13:47 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 16:13:47 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 16:13:53 INFO  BasePage:89 - Store page
+2024-09-20 16:15:10 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 16:15:12 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 16:15:12 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 16:15:42 INFO  BasePage:89 - Store page
+2024-09-20 16:18:59 INFO  BasePage:48 - Browser Name: chrome
+2024-09-20 16:19:01 INFO  BasePage:52 - Application URL : https://www.giva.co/
+2024-09-20 16:19:01 WARN  BasePage:53 - This Log4j not support fatal,error methods.
+2024-09-20 16:19:08 INFO  BasePage:89 - Store page

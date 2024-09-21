@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75329458-bac9-45c7-a174-559430bb665a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/config/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/pages/StorePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/giva/testdata/Givalogincredential.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/listener/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/AddToCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/CheckoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/StorePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/testcases/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/utils/ExcelFileReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.giva/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_output/ExtentReport.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2m7WlgyK2vrwmUkugAB4ivpToXR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AddToCartTest.AddToCartTest.executor": "Run",
+    "TestNG.AddToCartTest.cartOfferTest.executor": "Run",
+    "TestNG.AddToCartTest.cartTest.executor": "Run",
+    "TestNG.C:/Users/DELL/IdeaProjects/GivaPageDesign/testng.xml.executor": "Run",
+    "TestNG.CheckoutTest.CheckoutForGuestTest.executor": "Run",
+    "TestNG.CheckoutTest.CheckoutForUserTest.executor": "Run",
+    "TestNG.CheckoutTest.CheckoutTest.executor": "Run",
+    "TestNG.CheckoutTest.executor": "Run",
+    "TestNG.LoginTest.LoginWithMultipleUser.executor": "Run",
+    "TestNG.LoginTest.LoginWithMultipleUser1.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.loginTest.executor": "Run",
+    "TestNG.LoginTest.startShoppingTest.executor": "Run",
+    "TestNG.RegisterTest.registerTest.executor": "Run",
+    "TestNG.SearchTest.executor": "Run",
+    "TestNG.SearchTest.searchByGuestTest.executor": "Run",
+    "TestNG.SearchTest.searchByUserTest.executor": "Run",
+    "TestNG.SearchTest.searchTest.executor": "Run",
+    "TestNG.StorePageTest.FindStoreTest.executor": "Run",
+    "TestNG.StorePageTest.executor": "Run",
+    "TestNG.StorePageTest.givaGiftStore.executor": "Run",
+    "TestNG.StorePageTest.viewStoreOptionTest.executor": "Run",
+    "TestNG.Tests.executor": "Run",
+    "TestNG.Tests.guestShopThroughStore.executor": "Run",
+    "TestNG.Tests.shoppingByGuest.executor": "Run",
+    "TestNG.Tests.shoppingByUser.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/SeleniumBasic",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\GivaPageDesign\src\test\java" />
+      <recent name="C:\Users\DELL\IdeaProjects\GivaPageDesign\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.StorePageTest.givaGiftStore">
+    <configuration name="AddToCartTest.cartOfferTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GivaPageDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giva.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.giva.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.giva.testcases.AddToCartTest" />
+      <option name="METHOD_NAME" value="cartOfferTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GivaPageDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giva.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.giva.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.giva.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GivaPageDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giva.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.giva.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.giva.testcases.StorePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorePageTest.FindStoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GivaPageDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giva.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.giva.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.giva.testcases.StorePageTest" />
+      <option name="METHOD_NAME" value="FindStoreTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorePageTest.givaGiftStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GivaPageDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giva.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.giva.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.giva.testcases.StorePageTest" />
+      <option name="METHOD_NAME" value="givaGiftStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.StorePageTest.givaGiftStore" />
+        <item itemvalue="TestNG.AddToCartTest.cartOfferTest" />
+        <item itemvalue="TestNG.StorePageTest" />
+        <item itemvalue="TestNG.StorePageTest.FindStoreTest" />
+        <item itemvalue="TestNG.LoginTest.loginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75329458-bac9-45c7-a174-559430bb665a" name="Changes" comment="" />
+      <created>1726428249134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726428249134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
